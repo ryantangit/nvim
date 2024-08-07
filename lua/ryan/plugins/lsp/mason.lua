@@ -43,7 +43,8 @@ return {
 				"isort", -- python formatter
 				"black", -- python formatter
 				"pylint",
-				"eslint_d",
+				"eslint_d", -- eslint - js/ts
+				"htmlhint", -- html formatter
 			},
 		})
 	end,
