@@ -48,7 +48,7 @@ return {
           scope_incremental = false,
           node_decremental = "<bs>",
         },
-      },
+      }, 
     })
   end,
 }
